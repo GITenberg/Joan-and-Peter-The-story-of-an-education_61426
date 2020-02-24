@@ -1,0 +1,32 @@
+_repo: Joan-and-Peter-The-story-of-an-education_61426
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: https://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2020-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education, Humanistic -- England -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'School children -- England -- Fiction'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'English fiction -- 20th century'
+- !lcsh 'Boating accidents -- Fiction'
+- !lcsh 'Teenagers -- England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Joan and Peter: The story of an education'
+url: http://www.gutenberg.org/ebooks/61426
